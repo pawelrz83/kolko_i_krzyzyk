@@ -1,3 +1,3 @@
 Programming Languages : Java
 
-Kolko i krzyzyk game
+OXO or Noughts and Crosses, simple game
